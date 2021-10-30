@@ -1,0 +1,14 @@
+const channels = [
+  {
+    id: 1,
+    title: 'echourouk +',
+    categories: [2],
+    image: '',
+  },
+  {
+    id: 2,
+    title: 'canal +',
+    categories: [3],
+    image: require('../images/sports.png'),
+  }
+]
